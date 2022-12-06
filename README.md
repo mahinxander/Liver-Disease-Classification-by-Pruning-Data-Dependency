@@ -29,6 +29,6 @@ This Project is open-sourced software licensed under the [MIT license](https://o
 
 ## Result demo
 
-<img src="results.PNG" alt="liver disease classification" />
+<img src="/results.png" alt="liver disease classification" />
 
 
