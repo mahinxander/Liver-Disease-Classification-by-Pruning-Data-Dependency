@@ -38,4 +38,12 @@ This Project is open-sourced software licensed under the [MIT license](https://o
 
 <img src="/results.png" alt="liver disease classification" />
 
+##Poster
+
+<object data="https://github.com/mahinxander/Liver-Disease-Classification-by-Pruning-Data-Dependency/poster9785.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/mahinxander/Liver-Disease-Classification-by-Pruning-Data-Dependency/poster9785.pdf">
+        <p>This browser does not support PDFs. </p>
+    </embed>
+</object>
+
 
