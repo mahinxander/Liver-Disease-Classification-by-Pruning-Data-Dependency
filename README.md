@@ -40,10 +40,7 @@ This Project is open-sourced software licensed under the [MIT license](https://o
 
 ## Poster
 
-<object data="/poster9785.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/poster9785.pdf">
-        <p>This browser does not support PDFs. </p>
-    </embed>
-</object>
+<iframe src="/poster9785.pdf" width="100%" height="500px">
+    </iframe>
 
 
