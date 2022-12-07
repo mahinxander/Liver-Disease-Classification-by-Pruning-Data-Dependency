@@ -26,6 +26,10 @@ Khaled, M.A.B., Rahman, M.M., Quaiyum, M.G., Akter, S. (2022). Liver Disease Cla
 
 For citation file download, [Click Here](https://link.springer.com/chapter/10.1007/978-3-031-22695-3_43)
 
+## Poster
+
+<img src="/poster9785.jpg" alt="liver disease classification" />
+
 ## Dataset Access
 
 The liver disease dataset can be found at the [link](https://archive.ics.uci.edu/ml/datasets/HCV+data).
@@ -38,9 +42,5 @@ This Project is open-sourced software licensed under the [MIT license](https://o
 
 <img src="/results.png" alt="liver disease classification" />
 
-## Poster
-
-<iframe src="https://github.com/mahinxander/Liver-Disease-Classification-by-Pruning-Data-Dependency/poster9785.pdf" width="100%" height="500px">
-    </iframe>
 
 
