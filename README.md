@@ -24,7 +24,7 @@ This repository is the implementation of [Liver Disease Classification by Prunin
 
 Khaled, M.A.B., Rahman, M.M., Quaiyum, M.G., Akter, S. (2022). Liver Disease Classification by Pruning Data Dependency Utilizing Ensemble Learning Based Feature Selection. In: Aziz, H., Corrêa, D., French, T. (eds) AI 2022: Advances in Artificial Intelligence. AI 2022. Lecture Notes in Computer Science(), vol 13728. Springer, Cham. https://doi.org/10.1007/978-3-031-22695-3_43
 
-For citation file download, [Click Here](https://link.springer.com/chapter/10.1007/978-3-031-22695-3_43)
+For citation file download, [Click Here](https://link.springer.com/chapter/10.1007/978-3-031-22695-3_43#citeas)
 
 ## Poster
 
